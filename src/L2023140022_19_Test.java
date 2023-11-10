@@ -1,5 +1,5 @@
 
-public class Main extends Solution19 {
+public class L2023140022_19_Test extends Solution19 {
     public static void main(String[] args) {
 
         System.out.println("Hello world!");
