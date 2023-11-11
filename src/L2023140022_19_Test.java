@@ -5,7 +5,7 @@ public class L2023140022_19_Test extends Solution19 {
 
     public static void main(String[] args) {
 
-
+//好！非常好的！
         /**
          * 测试用例设计的总体原则：
          * 1. 等价类划分原则：将输入的可能情况划分为有效等价类和无效等价类，分别测试。
